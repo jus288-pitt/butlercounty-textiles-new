@@ -1,7 +1,0 @@
-FieldName,Description
-Identifer,assigned unique identifer for item
-Creator,name of person or organization responsible for the creation of the item
-Title ,"name, either formal or supplied, of the described item"
-Date,the creation or publication date
-Description,brief summary or description of the item being described
-Repository,name of the institution or person who has custody of the item
